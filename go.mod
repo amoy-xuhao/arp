@@ -1,4 +1,4 @@
-module github.com/kubeovn/arp
+module github.com/amoy-xuhao/arp
 
 go 1.19
 
